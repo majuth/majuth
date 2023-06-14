@@ -1,14 +1,9 @@
-<h1 align="center"><b> Hi, I'm Majuth 👋🏼 </b></h1>
+<h3> Hi, I'm Majuth </h3>
 
-<h3> About me </h3>
 <ul>
     <li>🎓 Toronto Metropolitan University (Ryerson) Computer Science Grad</li>
     <li>👨‍💻 Interested in software development and engineering</li>
     <li>🏢 Former Software Engineer at TD and the Ontario Ministry </li>
-</ul>
-
-<h3> Reach out </h3>
-<ul>
     <li>📫 Email me: <a href = "mailto: mkirakalaprathapan@torontomu.ca">mkirakalaprathapan@torontomu.ca</a></li>
     <li>👨🏻‍💼 Linkedin: <a href="https://www.linkedin.com/in/majuth/">linkedin.com/in/majuth/</a></li>
     <li>🔗 My projects: <a href="www.majuth.com">majuth.com</a> </li>
