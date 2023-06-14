@@ -2,11 +2,17 @@
 
 <h3> About me </h3>
 <ul>
-    <li>🎓 TMU (Ryerson) Computer Science Grad</li>
-    <li>👨‍💻 Interested in devlopment</li>
+    <li>🎓 Toronto Metropolitan University (Ryerson) Computer Science Grad</li>
+    <li>👨‍💻 Interested in software development and engineering</li>
+    <li>🏢 Former Software Engineer at TD and the Ontario Ministry </li>
 </ul>
 
 <h3> Reach out </h3>
+<ul>
+    <li>🔗 My projects: [www.majuth.com](majuth.com) </li>
+    <li>👨🏻‍💼 Linkedin: [https://www.linkedin.com/in/majuth/](linkedin.com/in/majuth/)</li>
+    <li>📫 Email me: **mkirakalaprathapan@torontomu.ca**</li>
+</ul>
 
 <h3> My Github </h3>
 
