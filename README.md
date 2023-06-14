@@ -1,9 +1,8 @@
 <h1 align="center"><b> Hi, I'm Majuth 👋🏼 </b></h1>
-<h3 align="center"><b> TMU (Ryerson) Computer Science Grad </b></h3>
 
 <h3> About me </h3>
 <ul>
-    <li>👨‍💻 Interested in devlopment</li>
+    <li>🎓 TMU (Ryerson) Computer Science Grad</li>
     <li>👨‍💻 Interested in devlopment</li>
 </ul>
 
