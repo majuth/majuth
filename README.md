@@ -6,7 +6,7 @@
     <li>👨‍💻 Interested in software development and engineering</li>
     <li>📫 Email me: <a href = "mailto: mkirakalaprathapan@torontomu.ca">majuthkira@gmail.com</a></li>
     <li>👨🏻‍💼 Linkedin: <a href="https://www.linkedin.com/in/majuth/">linkedin.com/in/majuth/</a></li>
-    <li>🔗 My projects: <a href="www.majuth.com">majuth.com</a> </li>
+    <li>🔗 My projects: <a href="https://www.majuth.com">majuth.com</a> </li>
 </ul>
 
 <!-- <h3> My Github </h3>
